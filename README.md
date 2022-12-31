@@ -15,7 +15,7 @@
 <hr/>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=pheopyte&show_icons=true&theme=radical"/>
 <img align="left" width="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
-<hr/>
+<br/>
 <h2>Technology:</h2>
 <a href="#"><img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/></a>
