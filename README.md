@@ -17,7 +17,7 @@
           ╚═╝░░░░░╚═╝░░░╚═╝░░░ ╚═╝░░░░░╚═╝░░╚═╝╚═════╝░╚═════╝░╚═╝░╚════╝░╚═╝░░╚══╝
 ```
 
-<p>Front-End & Back-End Developer, Security Enthusiast</p>
+<p>Web Developer & Security Enthusiast</p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100082191446689) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/test) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kaizerbaynosa710) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/test) 
