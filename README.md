@@ -16,7 +16,7 @@
           ██║░╚═╝░██║░░░██║░░░ ██║░░░░░██║░░██║██████╔╝██████╔╝██║╚█████╔╝██║░╚███║
           ╚═╝░░░░░╚═╝░░░╚═╝░░░ ╚═╝░░░░░╚═╝░░╚═╝╚═════╝░╚═════╝░╚═╝░╚════╝░╚═╝░░╚══╝
           
-          Hacking is not a f*ck*ng Crime. it's an art of breaking computer system
+          Hacking is not a f*cking crime, it's an art of breaking into computer systems.
 ```
 
 <p>Web Developer & Security Enthusiast</p>
