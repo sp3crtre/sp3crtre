@@ -1,6 +1,6 @@
 <h1>Hi I'm Kaizer Baynosa | NullGhost | Pheopyte</h1>
 
-```\e[0;31m
+<span style="color: red;">
 
           ░██████╗███████╗░█████╗░██╗░░░██╗██████╗░██╗████████╗██╗░░░██╗  ██╗░██████╗  
           ██╔════╝██╔════╝██╔══██╗██║░░░██║██╔══██╗██║╚══██╔══╝╚██╗░██╔╝  ██║██╔════╝  
@@ -18,7 +18,7 @@
           
           Hacking is not a f*cking crime, it's an art of breaking into computer systems.
    
-\e[0;0m```
+</span>
 
 <p>Web Developer & Security Enthusiast</p>
 
