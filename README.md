@@ -1,6 +1,6 @@
 <h1>Hi I'm Kaizer Baynosa | NullGhost | Pheopyte</h1>
 
-<img src="banner.png" alt="banner">
+<img src="banner.png" alt="banner" style="width: 100%">
 
 <H5>Front-end Developer | Security Enthusiast | UX / UI Designer</p>
 
@@ -37,8 +37,7 @@
 
 ## 🏆 GitHub Trophies
 
-<p><img src="https://github-profile-trophy.vercel.app/?username=pheopyte">
-</p>
+<p><img src="https://github-profile-trophy.vercel.app/?username=pheopyte"></p>
 
 ## 📊 Github Status
 
