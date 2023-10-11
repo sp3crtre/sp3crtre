@@ -1,10 +1,4 @@
-<h1>Hi I'm Kaizer Baynosa | NullGhost | Pheopyte</h1>
-
-<img src="banner.png" alt="banner" style="width: 100%">
-
-<H5>Front-end Developer | Security Enthusiast | UX / UI Designer</p>
-
-
+<img src="https://i.ibb.co/9bSwtyk/Group-1-1.png" alt="Group-1-1" style="width: 100%;">
 ## 💻 Skills
 <p>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" style="margin-bottom: 4px;" height="30px">
