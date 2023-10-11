@@ -1,5 +1,6 @@
 <img src="https://i.ibb.co/9bSwtyk/Group-1-1.png" alt="Group-1-1" style="width: 100%;">
-## 💻 Skills
+
+<h2>💻 Skills</h2>
 <p>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" style="margin-bottom: 4px;" height="30px">
