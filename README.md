@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/9bSwtyk/Group-1-1.png" alt="Group-1-1" style="width: 100%;">
+<img src="https://i.ibb.co/VmJJTZV/bg.png" alt="Group-1-1" style="width: 100%;">
 
 <h2>💻 Skills</h2>
 <p>
