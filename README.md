@@ -1,9 +1,10 @@
 <img src="https://i.ibb.co/VmJJTZV/bg.png" alt="Group-1-1" style="width: 100%;">
 
+<h2>Job Role</h2>
 <ul>
   <li>Data Scientist </li>
   <li>Web Developer </li>
-  <li>Android Development </li>
+  <li>Android Developer </li>
   <li>Cyber Security Researcher</li>
   <li>UI/UX Designer </li>
 </ul>
